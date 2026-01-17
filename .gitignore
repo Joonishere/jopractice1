@@ -1,0 +1,7 @@
+# Logs
+*.log
+firebase-debug.log
+
+# Local development
+.vscode/
+.idx/
